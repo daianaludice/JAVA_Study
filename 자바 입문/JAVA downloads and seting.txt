@@ -1,0 +1,11 @@
+Windows
+
+jdk download and set : http://www.oracle.com/technetwork/java/index.html
+  -> java SE link -> JDK download link -> you should download JDK that same OS -> Downloads and Set
+
+환경변수 설정 : JAVA_HOME,Path,CLASSPATH 설정
+ 제어판-> 고급 시스템 설정 -> 환경 변수 -> PATH 환경 변수 편집 -> 새로 만들거나 편집
+                                         -> 시스템 변수 편집(or 새 시스템 변수) -> 환경 변수 값 지정
+
+
+eclipse download and set : http://www.eclipes.org 에서 OS에 따라 설치
